@@ -17,6 +17,7 @@ In the past several weeks I've built six AI tools and a combined platform, every
 🔍 [SafeProbe](https://github.com/sumaleesimmonds/safeprobe) — An ethical AI safety evaluation tool using LLM-as-judge to test Claude across 8 real jailbreak categories.
 
 🌍 [Refugee Resource Finder](https://github.com/sumaleesimmonds/refugee-resource-finder) — A conversational chatbot helping newly arrived refugees and immigrants in NYC find housing, food, legal aid, ESL, and healthcare, built in honor of my mother's story.
+🔗 [View live demo](https://sumaleesimmonds.github.io/refugee-resource-finder/)
 
 📋 [Grant Writing Assistant](https://github.com/sumaleesimmonds/grant-writing-assistant) — Matches nonprofits to real grants and drafts full proposals, for organizations that can't afford a development team.
 
