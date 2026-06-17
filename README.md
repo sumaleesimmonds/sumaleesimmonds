@@ -25,6 +25,7 @@ In the past several weeks I've built six AI tools and a combined platform, every
 ✦ [Impact Story Generator](https://github.com/sumaleesimmonds/impact-story-generator) — Turns nonprofit program data into donor emails, annual report copy, and social captions.
 
 🧩 [MissionDesk](https://github.com/sumaleesimmonds/missiondesk) — Combined the three nonprofit-facing tools above into a single AI-powered platform with its own product design.
+
 🔗 [View live demo](https://sumaleesimmonds.github.io/missiondesk/)
 
 🎮 [Terminal Wordle](https://github.com/sumaleesimmonds/terminal-wordle) — Where it all started. A fully playable Wordle clone in Python.
