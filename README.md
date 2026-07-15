@@ -1,4 +1,4 @@
-# Hi, I'm Sumalee 👋
+# Hi, I'm Sumalee (Chanel) 👋
 
 I'm a self-taught AI builder from a mixed-heritage, first-generation immigrant family, and that background shapes everything I build.
 
